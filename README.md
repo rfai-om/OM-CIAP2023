@@ -1,2 +1,13 @@
-# OM-CIAP2023
-Oticon Medical material for CI 2023
+# Program
+
+## Sunday July 9
+
+## Monday July 10
+
+## Tuesday July 11
+
+## Wednesday July 12
+
+## Thursday July 13
+
+## Friday July 14
