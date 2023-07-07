@@ -1,6 +1,5 @@
-<img style="display: block; margin: auto;;" src="https://rfai-om.github.io/OM-CIAP2023/images/OM_logo.png" alt="OM_logo" width="400"/>
+<img style="display: block; margin: auto;" src="https://rfai-om.github.io/OM-CIAP2023/images/OM_logo.png" alt="OM_logo" width="400"/>
 
-$~$
 
 ## Monday July 10
 
