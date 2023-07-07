@@ -19,7 +19,7 @@
 ## Tuesday July 11
 
 ### **LUNCH:** OM Research Platforms Workshop
-[[DEMO 1: OM Experiment Platform](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMEXP.pdf)
+[[DEMO 1: OM Experiment Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMEXP.pdf)
 [[DEMO 2: OM Field Research Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMFRP.pdf)
 [[DEMO 3]](https://rfai-om.github.io/OM-CIAP2023/demo/)
 [[DEMO 4: OM Research Plaform Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPRealtime.pdf)
