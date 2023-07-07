@@ -1,4 +1,4 @@
-# Oticon Medical on CIAP 2023
+<img src="images/OM_logo.png" alt="" width="400"/>
 
 ## Monday July 10
 
