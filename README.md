@@ -19,13 +19,13 @@
 ## Tuesday July 11
 
 ### **LUNCH:** OM Research Platforms Workshop
-[[DEMO 1]](https://rfai-om.github.io/OM-CIAP2023/demo/)
-[[DEMO 2]](https://rfai-om.github.io/OM-CIAP2023/demo/)
-[[DEMO 3]](https://rfai-om.github.io/OM-CIAP2023/posters/)
-[[DEMO 4]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
-[[DEMO 5]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
-[[DEMO 6]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
-[[DEMO 7]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
+[[DEMO 1: OM Experiment Platform](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMEXP.pdf)
+[[DEMO 2: OM Field Research Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMFRP.pdf)
+[[DEMO 3]](https://rfai-om.github.io/OM-CIAP2023/demo/)
+[[DEMO 4: OM Research Plaform Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPRealtime.pdf)
+[[DEMO 5: OM Research Platform Rate-Pitch]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRP.pdf)
+[[DEMO 6: OM Research tools - Basic Experiment]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_basicExp.pdf)
+[[DEMO 7: OM Research Platform - Master Hearing Aids Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPMHA.pdf)
 
 ### T41: 1750 The impact of pulse rate, electrode location and cross-channel interaction on pitch perception and frequency discrimination in CI users. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1750)
 *Yue Zhang, Behnam Molaee-Ardekani, Rafael Attili Chiea, Peter T Johannesen, Enrique A Lopez-Poveda, Manuel Segovia-Martinez*
