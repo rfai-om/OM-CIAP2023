@@ -1,6 +1,4 @@
-<p>
-<img style="float: right; src="images/OM_logo.png" alt="" width="400" />
-</p>
+<img src="images/OM_logo.png" alt="" width="400"/>
 
 ## Monday July 10
 
