@@ -18,6 +18,15 @@
 
 ## Tuesday July 11
 
+### **LUNCH:** OM Research Platforms Workshop
+[[DEMO 1]](https://rfai-om.github.io/OM-CIAP2023/demo/)
+[[DEMO 2]](https://rfai-om.github.io/OM-CIAP2023/demo/)
+[[DEMO 3]](https://rfai-om.github.io/OM-CIAP2023/posters/)
+[[DEMO 4]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
+[[DEMO 5]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
+[[DEMO 6]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
+[[DEMO 7]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf)
+
 ### T41: 1750 The impact of pulse rate, electrode location and cross-channel interaction on pitch perception and frequency discrimination in CI users. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1750)
 *Yue Zhang, Behnam Molaee-Ardekani, Rafael Attili Chiea, Peter T Johannesen, Enrique A Lopez-Poveda, Manuel Segovia-Martinez*
 
