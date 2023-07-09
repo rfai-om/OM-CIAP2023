@@ -27,8 +27,14 @@
 [[DEMO 6: OM Research tools - Basic Experiment]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_basicExp.pdf)
 [[DEMO 7: OM Research Platform - Master Hearing Aids Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPMHA.pdf)
 
+### T10: 1752 CI stimulation parameters play a key role in reducing facial nerve stimulation. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1752.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1752)
+*Lutz Gaertner, Bradford C. Backus, Nicolas Le Goff, Anika Morgenstern, Thomas Lenarz, Andreas Buechner*
+
 ### T41: 1750 The impact of pulse rate, electrode location and cross-channel interaction on pitch perception and frequency discrimination in CI users. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1750)
 *Yue Zhang, Behnam Molaee-Ardekani, Rafael Attili Chiea, Peter T Johannesen, Enrique A Lopez-Poveda, Manuel Segovia-Martinez*
+
+### T53: 1742 Exploring rate-coded pitch perception in CI users vs. a wavelet vocoder using the Oticon Medical research platform.  [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1742.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1742)
+*Bradford C. Backus, Tobias Herzke*
 
 ## Wednesday July 12
 
