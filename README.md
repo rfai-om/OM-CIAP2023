@@ -15,13 +15,15 @@
 ### M64: 1636 Developing a new test-bench for screening effective next-generation speech processing algorithms for cochlear implants. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1636.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1636)
 *Anais Donzeau, Tobias Goehring, Yue Zhang, Manuel Segovia-Martinez*
 
+### M65: 1720 Streamlined cochlear image analysis: enhancing an ai-powered tool for large-scale population statistics and accurate 3D modelling. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1720.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1720)
+*Jan Margeta, Raabid Hussain, Behnam Molaee-Ardekani, Reda Kamraoui, Roger Calixto, Octavio E. Martinez Manzanera, Paula Lopez Diez, Francois Patou, Chadlia Karoui, Michel Hoen, Charles Raffaeli, Clair Vandersteen, Nicolas Guevara*
 
 ## Tuesday July 11
 
 ### **LUNCH:** OM Research Platforms Workshop
 [[DEMO 1: OM Experiment Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMEXP.pdf)
 [[DEMO 2: OM Field Research Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMFRP.pdf)
-[[DEMO 3]](https://rfai-om.github.io/OM-CIAP2023/demo/)
+[[DEMO 3: OM Research Cochlear Imaging Platform - Nautilus]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_nautilus.pdf)
 [[DEMO 4: OM Research Plaform Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPRealtime.pdf)
 [[DEMO 5: OM Research Platform Rate-Pitch]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRP.pdf)
 [[DEMO 6: OM Research tools - Basic Experiment]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_basicExp.pdf)
@@ -29,6 +31,12 @@
 
 ### T10: 1752 CI stimulation parameters play a key role in reducing facial nerve stimulation. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1752.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1752)
 *Lutz Gaertner, Bradford C. Backus, Nicolas Le Goff, Anika Morgenstern, Thomas Lenarz, Andreas Buechner*
+
+### T21: 1654 The effects of multi-mode monophasic stimulation with capacitive discharge on the facial nerve stimulation reduction in young children with cochlear implants: intraoperative recordings. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1654.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1654)
+*Fabiana Danieli, Miguel Angelo Hyppolito, Raabid Hussain, Jan Margeta, Chadlia Karoui, Michel Hoen, Ana Claudia Mirândola Barbosa Reis*
+
+### T23: 1843 Escude and Avci et. al. revisited. Cochlear microanatomy from a database of 1100 ears. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1843.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1843)
+*Roger Calixto, Attila Frater, Nicolas Guevara, Raabid Hussain , Jan Margeta*
 
 ### T41: 1750 The impact of pulse rate, electrode location and cross-channel interaction on pitch perception and frequency discrimination in CI users. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1750.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1750)
 *Yue Zhang, Behnam Molaee-Ardekani, Rafael Attili Chiea, Peter T Johannesen, Enrique A Lopez-Poveda, Manuel Segovia-Martinez*
@@ -43,6 +51,9 @@
 
 ### W48: 1732 Gathering ecological data to assess real-life benefits of cochlear implants. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1732.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1732)
 *Lelia Erscoi, Yue Zhang, Manuel Segovia-Martinez*
+
+### W46: 1655 Comparison of tonotopic maps for cochlear implant fitting: a study on 149 patients from MHH hospital. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1655.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1655)
+*Raabid Hussain, Anika Morgenstern, Behnam Molaee-Ardekani, Jan Margeta, Andreas Buechner*
 
 ## Thursday July 13
 
