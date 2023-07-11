@@ -3,8 +3,7 @@
 
 ## Monday July 10
 
-### M33: 1633 A computational modeling framework for assessing information transmission with
-cochlear implants.  [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1633)
+### M33: 1633 A computational modeling framework for assessing information transmission with cochlear implants. [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1633)
 *Thibaud Leclere, Peter T. Johannesen, Aswin Wijetilake, Manuel SegoviaMartinez, Enrique A. Lopez-Poveda* 
 
 ### M45: 1556 Signal processing strategy for cochlear implant based on feature extraction. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1556.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1556)
