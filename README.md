@@ -36,6 +36,13 @@ cochlear implants.  [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID
 [[DEMO 6: OM Research tools - Basic Experiment]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_basicExp.pdf)
 [[DEMO 7: OM Research Platform - Master Hearing Aids Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPMHA.pdf)
 
+### Industry and regulatory presentations
+Oticon Medical: New Frontiers in Hearing Outcomes.
+*Manuel SegoviaMartinez Yue Zhang, Jan Margeta and Bradford Backus*
+
+### Podium P24: Clinical implications of sensitivity to pulse phase duration in cochlear implants. 
+*Ning Zhou, Zhen Zhu, Lixue Dong, David Bakhos, Bradford Backus, Manuel Segovia Martinez, David Landsberger, John Galvin*
+
 ### T3: 1593 Investigating the electrode-electrolyte interface modelling in cochlear implants. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1593.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1593)
 *Behnam Molaee-Ardekani, Mary J. Donahue*
 
@@ -76,13 +83,31 @@ cochlear implants.  [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID
 ### Th48: 1579 Controlled curvature electrode array with ionic electro active polymer-based microactuators for cochlear implantation. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1579.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1579)
 *Ahmad Itawi, Guillaume tourrel, Renato Torres, Prabhakar Sidambaram, Sofiane Ghenna, Sebastien Grondel, Yann Nguyen, Eric Cattan*
 
-
 ### Th49: 1637 Oticon Medical research tools – practical examples of their utilization. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1637.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1637)
 *Rafael Attili Chiea, Behnam Molaee-Ardekani, Yue Zhang, Manuel Segovia-Martinez*
 
 ### Th6: 1598 The effect of stimulation waveform on electrically elicited stapedius response threshold (eSRT) in neuro cochlear implants. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1598.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1598)
 *Behnam Molaee-Ardekani, Anika Morgenstern,Lutz Gaertner, Andreas Buechner, Manuel Segovia Martinez*
 
+## Friday July 14
+
+### Podium P48: Electric acoustic integration in bimodal cochlear implant users. 
+*Hanna Dolhopiatenko, Waldo Nogueira*
+
+### Podium P57: Real-time simulation of active cochlear implant and its insertion.
+*Lingxiao Xun, Yinoussa Adagolodjo, Gang Zheng, Alexandre Kruszewski, Christian Duriez*
+
+
 ## Access
 [Get access to Nautilus and see the publications](https://nautilus.oticonmedical.com/publications)
+[Get access to OM Experiment Platform on github](https://github.com/elus-om/BRM_OMEXP)
+
+## References
+Johannesen, P. T., Leclère, T., Wijetillake, A., Segovia-Martínez, M., & Lopez-Poveda, E. A. (2022). Modeling temporal information encoding by the population of fibers in the healthy and synaptopathic auditory nerve. Hearing Research, 426, 108621.
+Leclère, T., Johannesen, P. T., Wijetillake, A., Segovia-Martínez, M., & Lopez-Poveda, E. A. (2023). A computational modelling framework for assessing information transmission with cochlear implants. Hearing Research, 432, 108744.
+Tahmasebi, S., Segovia-Martinez, M., & Nogueira, W. (2023). Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users. Trends in Hearing, 27, 23312165221148022.
+Sulas, E., Hasan, P. Y., Zhang, Y., & Patou, F. (2022). Streamlining experiment design in cognitive hearing science using OpenSesame. Behavior Research Methods, 1-15.
+Pedersen, R. L., Picinali, L., Kajs, N., & Patou, F. (2023). Virtual-Reality-Based Research in Hearing Science: A Platforming Approach. Journal of the Audio Engineering Society, 71(6), 374-389.
+
+
 
