@@ -59,3 +59,5 @@
 
 ### Th49: 1637 Oticon Medical research tools – practical examples of their utilization. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1637.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1637)
 *Rafael Attili Chiea, Behnam Molaee-Ardekani, Yue Zhang, Manuel Segovia-Martinez*
+
+## [Get access to Nautilus and see the publications](https://nautilus.oticonmedical.com/publications)
