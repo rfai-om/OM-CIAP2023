@@ -100,6 +100,7 @@ Oticon Medical: New Frontiers in Hearing Outcomes.
 
 ## Access
 [Get access to Nautilus and see the publications](https://nautilus.oticonmedical.com/publications)
+
 [Get access to OM Experiment Platform on github](https://github.com/elus-om/BRM_OMEXP)
 
 ## References
