@@ -103,11 +103,9 @@ Oticon Medical: New Frontiers in Hearing Outcomes.
 [Get access to OM Experiment Platform on github](https://github.com/elus-om/BRM_OMEXP)
 
 ## References
-Johannesen, P. T., Leclère, T., Wijetillake, A., Segovia-Martínez, M., & Lopez-Poveda, E. A. (2022). Modeling temporal information encoding by the population of fibers in the healthy and synaptopathic auditory nerve. Hearing Research, 426, 108621.
-Leclère, T., Johannesen, P. T., Wijetillake, A., Segovia-Martínez, M., & Lopez-Poveda, E. A. (2023). A computational modelling framework for assessing information transmission with cochlear implants. Hearing Research, 432, 108744.
-Tahmasebi, S., Segovia-Martinez, M., & Nogueira, W. (2023). Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users. Trends in Hearing, 27, 23312165221148022.
-Sulas, E., Hasan, P. Y., Zhang, Y., & Patou, F. (2022). Streamlining experiment design in cognitive hearing science using OpenSesame. Behavior Research Methods, 1-15.
-Pedersen, R. L., Picinali, L., Kajs, N., & Patou, F. (2023). Virtual-Reality-Based Research in Hearing Science: A Platforming Approach. Journal of the Audio Engineering Society, 71(6), 374-389.
-
-
-
+- Johannesen, P. T., Leclère, T., Wijetillake, A., Segovia-Martínez, M., & Lopez-Poveda, E. A. (2022). Modeling temporal information encoding by the population of fibers in the healthy and synaptopathic auditory nerve. Hearing Research, 426, 108621.
+- Leclère, T., Johannesen, P. T., Wijetillake, A., Segovia-Martínez, M., & Lopez-Poveda, E. A. (2023). A computational modelling framework for assessing information transmission with cochlear implants. Hearing Research, 432, 108744.
+- Tahmasebi, S., Segovia-Martinez, M., & Nogueira, W. (2023). Optimization of Sound Coding Strategies to Make Singing Music More Accessible for Cochlear Implant Users. Trends in Hearing, 27, 23312165221148022.
+- Sulas, E., Hasan, P. Y., Zhang, Y., & Patou, F. (2022). Streamlining experiment design in cognitive hearing science using OpenSesame. Behavior Research Methods, 1-15.
+- Pedersen, R. L., Picinali, L., Kajs, N., & Patou, F. (2023). Virtual-Reality-Based Research in Hearing Science: A Platforming Approach. Journal of the Audio Engineering Society, 71(6), 374-389.
+- Backus B, Adiloğlu K, Herzke T. A Binaural CI Research Platform for Oticon Medical SP/XP Implants Enabling ITD/ILD and Variable Rate Processing. Trends in Hearing. 2015;19. doi:10.1177/2331216515618655
