@@ -82,6 +82,9 @@ Oticon Medical: New Frontiers in Hearing Outcomes.
 
 ## Thursday July 13
 
+### Podium P48: Electric acoustic integration in bimodal cochlear implant users. 
+*Hanna Dolhopiatenko, Waldo Nogueira*
+
 ### Th47: 1569 3D printed cochlea model for electrode insertion bench test. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1569.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1569)
 *Guillaume Tourrel, Julie Foncy, Renato Torres, Yann Nguyen*
 
@@ -95,9 +98,6 @@ Oticon Medical: New Frontiers in Hearing Outcomes.
 *Behnam Molaee-Ardekani, Anika Morgenstern,Lutz Gaertner, Andreas Buechner, Manuel Segovia Martinez*
 
 ## Friday July 14
-
-### Podium P48: Electric acoustic integration in bimodal cochlear implant users. 
-*Hanna Dolhopiatenko, Waldo Nogueira*
 
 ### Podium P57: Real-time simulation of active cochlear implant and its insertion.
 *Lingxiao Xun, Yinoussa Adagolodjo, Gang Zheng, Alexandre Kruszewski, Christian Duriez*
