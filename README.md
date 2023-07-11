@@ -3,8 +3,15 @@
 
 ## Monday July 10
 
+### M33: 1633 A computational modeling framework for assessing information transmission with
+cochlear implants.  [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1633)
+*Thibaud Leclere, Peter T. Johannesen, Aswin Wijetilake, Manuel SegoviaMartinez, Enrique A. Lopez-Poveda* 
+
 ### M45: 1556 Signal processing strategy for cochlear implant based on feature extraction. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1556.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1556)
 *Manuel Segovia-Martinez, Behnam Molaee-Ardekani, Yue Zhang, Aswin Wijetillake, Marianna Vatti, Julian Felding*
+
+### M46: 1594 An approach for determining individual frequency allocation map in cochlear implant users using cochlea CT-scans.  [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1594.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1594)
+*Behnam Molaee-Ardekani, Raabid Hussain, Marianna Vatti, Hanna Dolhopiatenko, Waldo NogueiraVazquez, Manuel Segovia Martinez*
 
 ### M50: 1634 Comparison of performance for cochlear-implant users with audio processing strategies based on short-time FFT or spectral feature extraction. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1634.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1634)
 *Yue Zhang, Peter T. Johannesen, Behnam Molaee-Ardekani, Aswin Wijetilake, Alejandro Soler Valcarcel, Manuel Segovia-Martinez, Enrique A. Lopez-Poveda*
@@ -28,6 +35,12 @@
 [[DEMO 5: OM Research Platform Rate-Pitch]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRP.pdf)
 [[DEMO 6: OM Research tools - Basic Experiment]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_basicExp.pdf)
 [[DEMO 7: OM Research Platform - Master Hearing Aids Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPMHA.pdf)
+
+### T3: 1593 Investigating the electrode-electrolyte interface modelling in cochlear implants. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1593.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1593)
+*Behnam Molaee-Ardekani, Mary J. Donahue*
+
+### T7: 1640 Investigating electrochemical safety limits of neural stimulating electrodes. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1640.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1640)
+*Prabhakar Sidambaram, Roger Calixto*
 
 ### T10: 1752 CI stimulation parameters play a key role in reducing facial nerve stimulation. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1752.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1752)
 *Lutz Gaertner, Bradford C. Backus, Nicolas Le Goff, Anika Morgenstern, Thomas Lenarz, Andreas Buechner*
@@ -57,7 +70,19 @@
 
 ## Thursday July 13
 
+### Th47: 1569 3D printed cochlea model for electrode insertion bench test. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1569.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1569)
+*Guillaume Tourrel, Julie Foncy, Renato Torres, Yann Nguyen*
+
+### Th48: 1579 Controlled curvature electrode array with ionic electro active polymer-based microactuators for cochlear implantation. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1579.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1579)
+*Ahmad Itawi, Guillaume tourrel, Renato Torres, Prabhakar Sidambaram, Sofiane Ghenna, Sebastien Grondel, Yann Nguyen, Eric Cattan*
+
+
 ### Th49: 1637 Oticon Medical research tools – practical examples of their utilization. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1637.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1637)
 *Rafael Attili Chiea, Behnam Molaee-Ardekani, Yue Zhang, Manuel Segovia-Martinez*
 
-## [Get access to Nautilus and see the publications](https://nautilus.oticonmedical.com/publications)
+### Th6: 1598 The effect of stimulation waveform on electrically elicited stapedius response threshold (eSRT) in neuro cochlear implants. [[poster]](https://rfai-om.github.io/OM-CIAP2023/posters/1598.pdf) | [[abstract]](http://ciaphome.org/abstracts/bin/abstractsByID2.export.php?idList=1598)
+*Behnam Molaee-Ardekani, Anika Morgenstern,Lutz Gaertner, Andreas Buechner, Manuel Segovia Martinez*
+
+## Access
+[Get access to Nautilus and see the publications](https://nautilus.oticonmedical.com/publications)
+
