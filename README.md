@@ -28,11 +28,17 @@
 
 ### **LUNCH:** OM Research Platforms Workshop
 [[DEMO 1: OM Experiment Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMEXP.pdf)
+
 [[DEMO 2: OM Field Research Platform]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMFRP.pdf)
+
 [[DEMO 3: OM Research Cochlear Imaging Platform - Nautilus]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_nautilus.pdf)
+
 [[DEMO 4: OM Research Plaform Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPRealtime.pdf)
+
 [[DEMO 5: OM Research Platform Rate-Pitch]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRP.pdf)
+
 [[DEMO 6: OM Research tools - Basic Experiment]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_basicExp.pdf)
+
 [[DEMO 7: OM Research Platform - Master Hearing Aids Realtime]](https://rfai-om.github.io/OM-CIAP2023/demo/demo_OMRPMHA.pdf)
 
 ### Industry and regulatory presentations
